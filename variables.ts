@@ -25,3 +25,18 @@ console.log(arr1);
 // var arr2:Array<any>= [ `Angular`,123456,true];
 
 // console.log(arr2);
+console.warn("-----------------Object--------------------------");
+var student ={
+    name:"Codemind",
+    score:200,
+
+}
+console.log(student.name);
+console.log(student.score);
+
+
+
+
+
+
+
